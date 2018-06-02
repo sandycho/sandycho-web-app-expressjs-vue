@@ -1,0 +1,31 @@
+{
+  "name": "sandycho-web-app-expressjs-vue",
+  "version": "1.0.0",
+  "description": "Basic server setup for quick code test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandycho/sandycho-web-app-expressjs-vue.git"
+  },
+  "keywords": [
+    "web-app",
+    "server",
+    "client",
+    "node",
+    "expressjs",
+    "vuejs"
+  ],
+  "author": "Sandy Chuchuca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandycho/sandycho-web-app-expressjs-vue/issues"
+  },
+  "homepage": "https://github.com/sandycho/sandycho-web-app-expressjs-vue#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-vue": "^5.6.2"
+  }
+}
